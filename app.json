@@ -13,9 +13,6 @@
   "logo": "https://avatars3.githubusercontent.com/u/10520629?v=3&s=200",
   "success_url": "/setup",
   "env": {},
-  "addons": [
-    "heroku-postgresql"
-  ],
   "buildpacks": [
     {
       "url": "heroku/jvm"
